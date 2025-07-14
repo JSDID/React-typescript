@@ -65,4 +65,3 @@ import TaskStatus, { Status } from "./components/TaskStatus";
 
 ---
 
-Проект предназначен для демонстрации типизации и современных подходов в React + TypeScript.
