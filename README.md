@@ -1,6 +1,6 @@
 # React-typescript
 
-Пример проекта на React + TypeScript
+Мои шаблоны 
 
 ## Структура
 
