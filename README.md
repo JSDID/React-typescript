@@ -63,5 +63,3 @@ import TaskStatus, { Status } from "./components/TaskStatus";
   - `Status.Done` — "Выполнено"
 - Цвет статуса меняется в зависимости от значения.
 
----
-
